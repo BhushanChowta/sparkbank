@@ -8,7 +8,7 @@ Back-End: JavaScript, PHP
 Database: MySql
 
 
-Github Repository: https://lnkd.in/gvTsBXW
+Youtube Link: https://youtu.be/gg2jYMHsiyw
 
 Hosting Partner: https://in.000webhost.com/
 
