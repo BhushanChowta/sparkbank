@@ -12,4 +12,4 @@ Youtube Link: https://youtu.be/gg2jYMHsiyw
 
 Hosting Partner: https://in.000webhost.com/
 
-Website Link: https://lnkd.in/gB8xrUw
+Website Link: https://bchowta.000webhostapp.com/index.php
